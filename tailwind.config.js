@@ -1,5 +1,5 @@
 module.exports = {
-  content: ["./*.html", "./assets/**/*.js"],
+  content: ["./*.html", "./ecommerce/*.html", "./assets/**/*.js"],
   darkMode: "class",
   theme: {
     screens: {
@@ -62,5 +62,5 @@ module.exports = {
   variants: {
     extend: {},
   },
-  plugins: [],
+  plugins: [require("tailgrids/plugin")],
 }
