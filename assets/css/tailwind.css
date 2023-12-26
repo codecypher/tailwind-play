@@ -2491,6 +2491,11 @@ body {
     padding-bottom: 120px;
   }
 
+  .md\:py-\[60px\]{
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+
   .md\:pt-\[130px\]{
     padding-top: 130px;
   }
@@ -2764,6 +2769,10 @@ body {
     padding-bottom: 70px;
   }
 
+  .lg\:pb-\[80px\]{
+    padding-bottom: 80px;
+  }
+
   .lg\:pb-\[90px\]{
     padding-bottom: 90px;
   }
@@ -2792,12 +2801,16 @@ body {
     padding-top: 160px;
   }
 
-  .lg\:pt-\[200px\]{
-    padding-top: 200px;
-  }
-
   .lg\:pt-\[40px\]{
     padding-top: 40px;
+  }
+
+  .lg\:pt-\[60px\]{
+    padding-top: 60px;
+  }
+
+  .lg\:pt-\[80px\]{
+    padding-top: 80px;
   }
 
   .lg\:text-5xl{
