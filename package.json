@@ -14,11 +14,10 @@
   "author": "Jeff Holmes",
   "license": "MIT",
   "devDependencies": {
-    "prettier": "^3.1.1",
-    "prettier-plugin-tailwindcss": "^0.5.9",
-    "tailgrids": "^2.1.0",
-    "tailwindcss": "^3.3.5"
+    "prettier": "^3.6.2",
+    "prettier-plugin-tailwindcss": "^0.5.14",
+    "tailgrids": "^2.3.0",
+    "tailwindcss": "^3.4.17"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
