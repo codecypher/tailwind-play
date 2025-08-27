@@ -11,7 +11,7 @@
     "url": "git+https://github.com/uideck/play-tailwind.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jeff Holmes",
   "license": "MIT",
   "devDependencies": {
     "prettier": "^3.1.1",
