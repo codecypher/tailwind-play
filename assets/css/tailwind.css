@@ -779,11 +779,6 @@ body {
   margin-bottom: 6px;
 }
 
-.my-8{
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-}
-
 .-mb-4{
   margin-bottom: -1rem;
 }
@@ -824,6 +819,14 @@ body {
   margin-bottom: 2rem;
 }
 
+.mb-\[40px\]{
+  margin-bottom: 40px;
+}
+
+.ml-8{
+  margin-left: 2rem;
+}
+
 .mr-4{
   margin-right: 1rem;
 }
@@ -840,18 +843,6 @@ body {
   margin-top: 6px;
 }
 
-.ml-6{
-  margin-left: 1.5rem;
-}
-
-.ml-8{
-  margin-left: 2rem;
-}
-
-.mb-\[40px\]{
-  margin-bottom: 40px;
-}
-
 .block{
   display: block;
 }
@@ -866,10 +857,6 @@ body {
 
 .grid{
   display: grid;
-}
-
-.list-item{
-  display: list-item;
 }
 
 .hidden{
@@ -1704,24 +1691,12 @@ body {
     margin-bottom: 2.25rem;
   }
 
-  .lg\:mb-\[70px\]{
-    margin-bottom: 70px;
-  }
-
   .lg\:ml-7{
     margin-left: 1.75rem;
   }
 
   .lg\:mr-0{
     margin-right: 0px;
-  }
-
-  .lg\:mb-\[30px\]{
-    margin-bottom: 30px;
-  }
-
-  .lg\:mb-\[40px\]{
-    margin-bottom: 40px;
   }
 
   .lg\:block{
