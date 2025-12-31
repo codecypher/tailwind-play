@@ -10,6 +10,13 @@ This template crafted using [TailGrids](https://tailgrids.com/) UI components
 
 [Download Now](https://links.tailgrids.com/play-download)
 
+## Quickstart
+
+```zsh
+  yarn rund build
+  yarn run dev
+```
+
 ## Tailwind Code Samples
 
 ```html
@@ -26,13 +33,6 @@ This template crafted using [TailGrids](https://tailgrids.com/) UI components
 
 Play is an open-source template, you can use it with your personal or commercial projects without any attribution or backlink.
 
-## Support
-
-You can always support this project by [Star This Repository](https://github.com/tailgrids/play-tailwind)
-and sharing with friends.
-
-Please open an issue if you find bug or feel free to contribute by pull requests after fixing any issue or adding more values.
-
 ### Update Logs: 2.0 - Nov 2023
 
 - Design refresh
@@ -40,3 +40,7 @@ Please open an issue if you find bug or feel free to contribute by pull requests
 - Dark mode support
 - Code and performance optimization
 - Updated dependencies
+
+## References
+
+[tailgrids/play-tailwind](https://github.com/tailgrids/play-tailwind)

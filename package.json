@@ -4,6 +4,7 @@
   "description": "",
   "main": "tailwind.config.js",
   "scripts": {
+    "build": "npx @tailwindcss/cli -i ./src/input.css -o ./src/css/tailwind.css",
     "dev": "npx @tailwindcss/cli -i ./src/input.css -o ./src/css/tailwind.css --watch"
   },
   "repository": {
