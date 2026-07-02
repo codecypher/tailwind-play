@@ -1,7 +1,7 @@
 {
   "name": "play-tailwind",
   "version": "2.0.0",
-  "description": "",
+  "description": "This is website for codecypher.ai",
   "main": "tailwind.config.js",
   "scripts": {
     "build": "npx @tailwindcss/cli -i ./src/input.css -o ./src/css/tailwind.css",
